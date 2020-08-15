@@ -30,5 +30,5 @@ app.listen(port, (err) => {
   //   open('http://localhost:' + port);
   // }
 
-  err ? console.log(err) : open(`http://localhost:${port}`);
+  err ? console.log(err) : open(`http://localhost:${ port }`);
 });

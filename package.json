@@ -16,6 +16,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
+    "@types/open": "^6.2.1",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
